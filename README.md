@@ -1,3 +1,5 @@
-# python data structure exercises
+# Data structure exercises
 
-From Problem Solving HackerRank
+## HackerRank problem solving
+* [array-reverse.py](https://github.com/flkt-crnpio/data-structures-exercises/blob/master/array-reverse.py)
+* [array-reverse.js](https://github.com/flkt-crnpio/data-structures-exercises/blob/master/array-reverse.js)
