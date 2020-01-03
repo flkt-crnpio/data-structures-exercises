@@ -1,8 +1,7 @@
 // Given an array, 'A', of 'N' integers, print each element in reverse order as a single line of space-separated integers
+const arr = [1,2,5,3];
 
-function reverseArray(arr){
-  return arr.reverse();
-}
-arr = [1,2,5,3]
-res = reverseArray(arr)
-console.log(res)
+(function() {
+  'use strict';
+  console.log(arr.reverse());
+}());
